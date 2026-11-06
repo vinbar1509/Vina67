@@ -1,0 +1,6 @@
+{
+  "name": "Cakrawala Bahasa 9 - Kurikulum Merdeka",
+  "description": "Aplikasi pembelajaran Bahasa Indonesia Kelas 9 Kurikulum Merdeka dengan ringkasan materi, latihan interaktif, kuis evaluasi per bab, dan monitoring progres belajar siswa untuk guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
